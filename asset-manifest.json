@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Rccg/static/css/main.42464973.chunk.css",
+    "main.js": "/Rccg/static/js/main.ab9f5790.chunk.js",
+    "main.js.map": "/Rccg/static/js/main.ab9f5790.chunk.js.map",
+    "runtime-main.js": "/Rccg/static/js/runtime-main.af0f1a3d.js",
+    "runtime-main.js.map": "/Rccg/static/js/runtime-main.af0f1a3d.js.map",
+    "static/js/2.2300be14.chunk.js": "/Rccg/static/js/2.2300be14.chunk.js",
+    "static/js/2.2300be14.chunk.js.map": "/Rccg/static/js/2.2300be14.chunk.js.map",
+    "index.html": "/Rccg/index.html",
+    "precache-manifest.a4f6ece406340f687549b4aaf5fe860c.js": "/Rccg/precache-manifest.a4f6ece406340f687549b4aaf5fe860c.js",
+    "service-worker.js": "/Rccg/service-worker.js",
+    "static/css/main.42464973.chunk.css.map": "/Rccg/static/css/main.42464973.chunk.css.map",
+    "static/js/2.2300be14.chunk.js.LICENSE.txt": "/Rccg/static/js/2.2300be14.chunk.js.LICENSE.txt",
+    "static/media/Evengalism.jpg": "/Rccg/static/media/Evengalism.f4794c6d.jpg",
+    "static/media/Landing.css": "/Rccg/static/media/pastor-mobile2.d225ee72.JPG",
+    "static/media/kids-rccg.jpg": "/Rccg/static/media/kids-rccg.d823a892.jpg",
+    "static/media/logorccg-150x150.png": "/Rccg/static/media/logorccg-150x150.a23caa6f.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af0f1a3d.js",
+    "static/js/2.2300be14.chunk.js",
+    "static/css/main.42464973.chunk.css",
+    "static/js/main.ab9f5790.chunk.js"
+  ]
+}
